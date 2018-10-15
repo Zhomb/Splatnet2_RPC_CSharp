@@ -24,3 +24,7 @@ This is where your cookie is stored. Keep it safe because if someone gets a hold
 - Closing discord while the program is running will lead to an unstopable error, which requires the program to restart manually
 - Without internet the program will say incorrect cookie no matter what even when cookie is correct
 - Any other errors please create an issue on this repository.
+
+## Thanks
+Thanks to @Valerokai for inspiration of a RPC!
+Thanks to @frozenpandaman for mitmproxy instructions and more inspiration!
