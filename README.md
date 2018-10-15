@@ -22,4 +22,4 @@ This is where your cookie is stored. Keep it safe because if someone gets a hold
 
 ## Known issues
 - Closing discord while the program is running will lead to an unstopable error, which requires the program to restart manually
-Any other errors please create an issue on this repository.
+- Any other errors please create an issue on this repository.
