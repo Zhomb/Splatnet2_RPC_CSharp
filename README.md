@@ -3,9 +3,9 @@
 
 ## Requirements
 To use this program you have to have:
--.Net core and .NET framwork 4.6+, you can get them [here] (https://www.microsoft.com/net/download).
--Your Splatnet cookie go [here] (github.com/frozenpandaman/splatnet2statink/wiki/mitmproxy-instructions) to find out how to obtain it.
--Internet connection and discord.
+- .Net core and .NET framwork 4.6+, you can get them [here](https://www.microsoft.com/net/download).
+- Your Splatnet cookie go [here](github.com/frozenpandaman/splatnet2statink/wiki/mitmproxy-instructions) to find out how to obtain it.
+- Internet connection and discord.
 
 ## Setup
 1. Make sure you have .NET framework 4.6.
@@ -21,5 +21,5 @@ The splatnet API does not give us the current game, only the last game played.
 This is where your cookie is stored. Keep it safe because if someone gets a hold of your cookie they can easily get your results, which isnt fine.
 
 ## Known issues
--Closing discord while the program is running will lead to an unstopable error, which requires the program to restart manually
+- Closing discord while the program is running will lead to an unstopable error, which requires the program to restart manually
 Any other errors please create an issue on this repository.
