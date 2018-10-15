@@ -3,12 +3,12 @@
 
 ## Requirements
 To use this program you have to have:
-- .Net core and .NET framwork 4.6+, you can get them [here](https://www.microsoft.com/net/download).
-- Your Splatnet cookie go [here](github.com/frozenpandaman/splatnet2statink/wiki/mitmproxy-instructions) to find out how to obtain it.
+- .Net core and .NET framwork 4.6+ (Please make sure its **runtime** unless you want to develop with C#, you can get them [here](https://www.microsoft.com/net/download).
+- Your Splatnet cookie, go [here](https://github.com/frozenpandaman/splatnet2statink/wiki/mitmproxy-instructions) to find out how to obtain it.
 - Internet connection and discord.
 
 ## Setup
-1. Make sure you have .NET framework 4.6.
+1. Make sure you have .NET framework 4.6+ **runtime**and .NET Core **runtime**.
 2. Open discord.
 3. Run this program and it will start displaying results of last match.
  
@@ -22,4 +22,5 @@ This is where your cookie is stored. Keep it safe because if someone gets a hold
 
 ## Known issues
 - Closing discord while the program is running will lead to an unstopable error, which requires the program to restart manually
+- Without internet the program will say incorrect cookie no matter what even when cookie is correct
 - Any other errors please create an issue on this repository.
