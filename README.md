@@ -25,6 +25,9 @@ This is where your cookie is stored. Keep it safe because if someone gets a hold
 - Without internet the program will say incorrect cookie no matter what even when cookie is correct
 - Any other errors please create an issue on this repository.
 
+## Credits
+Thanks to Lachee for the C# RPC wrapper
+
 ## Thanks
 Thanks to @Valerokai for inspiration of a RPC!
 Thanks to @frozenpandaman for mitmproxy instructions and more inspiration!
