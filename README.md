@@ -36,11 +36,7 @@ This is where your cookie and other things are stored. Keep it safe because if s
 - Any other errors please create an issue on this repository.
 
 ## Credits
-<<<<<<< HEAD
 Thank you to @Lachee for providing the discord RPC C# wrapper
-=======
-Thanks to Lachee for the C# RPC wrapper
->>>>>>> 4caffc00210380dec0f86c956ab180d0dbb0ad28
 
 ## Thanks
 Thanks to @Valerokai for inspiration of a RPC!
